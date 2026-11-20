@@ -1,5 +1,7 @@
 # Yanzhe Ji’s academic homepage
 
+**[Visit the live academic homepage ↗](https://jilly6.github.io/)**
+
 A static site for GitHub Pages. Open `index.html` in a browser to preview it locally. The site uses a locally stored illustration and a system font fallback if Google Fonts is unavailable.
 
 ## Updating the site
